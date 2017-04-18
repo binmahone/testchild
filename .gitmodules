@@ -1,0 +1,3 @@
+[submodule "childchild"]
+	path = childchild
+	url = https://github.com/binmahone/childchild.git
